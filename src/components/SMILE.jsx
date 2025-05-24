@@ -37,7 +37,7 @@ const SmileMakeover = () => {
             </div>
           </div>
           
-          {/* Video instead of image */}
+          
           <video 
             className="w-full h-[560px] object-cover rounded-lg"
             autoPlay 
