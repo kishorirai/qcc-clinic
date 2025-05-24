@@ -7,7 +7,7 @@ const DentalClinicWebsite = () => {
       {/* Navigation - Replace with: <DentalHeader /> */}
       
       {/* Main Content */}
-      <div className="flex flex-col items-center justify-center min-h-[80vh] px-6 text-center">
+      <div className="flex flex-col items-center justify-center min-h-[80vh] px-6 text-center pt-[100px]">
         <div className="max-w-6xl mx-auto">
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-normal text-teal-300 mb-4 leading-tight">
