@@ -1,5 +1,5 @@
 import React from 'react';
-// Import the header component: import DentalHeader from './DentalHeader';
+
 
 const DentalClinicWebsite = () => {
   return (
